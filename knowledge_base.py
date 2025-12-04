@@ -5,31 +5,31 @@
 # =========================================
 questions = {
     "goal": {
-        "text": "1. Choose your goal (Page 3)",
+        "text": "1. Choose your goal ",
         "options": ["Lose weight", "Gain muscle mass", "Get shredded", "Boost overall-well being"]
     },
     "body_type": {
-        "text": "2. Choose your body type (Page 2)",
+        "text": "2. Choose your body type ",
         "options": ["Slim", "Average", "Big", "Heavy"]
     },
     "problem_area": {
-        "text": "3. Select problem area (Page 5)",
+        "text": "3. Select problem area",
         "options": ["Weak chest", "Slim arms", "Beer belly", "Slim legs"]
     },
     "injury": {
-        "text": "4. Do you struggle with? (Page 9)",
+        "text": "4. Do you struggle with? ",
         "options": ["None", "Knees", "Back", "Joints"]
     },
     "location": {
-        "text": "5. Workout location (Page 10)",
+        "text": "5. Workout location",
         "options": ["Home", "Gym"]
     },
     "intensity": {
-        "text": "6. Preferred level (Page 11)",
+        "text": "6. Preferred level",
         "options": ["Keep it light 🧘‍♂️", "Good with effort 💪", "Bring intensity 🚀"]
     },
     "duration": {
-        "text": "7. Duration (Page 13)",
+        "text": "7. Duration",
         "options": ["10-15 minutes", "20-30 minutes", "30-40 minutes"]
     }
 }
