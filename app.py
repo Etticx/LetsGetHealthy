@@ -12,7 +12,7 @@ st.markdown("---")
 
 # 1. SIDEBAR - GENERATE 7 INPUTS
 st.sidebar.header("User Profile")
-st.sidebar.markdown("*Answer the 7 MadMuscles questions:*")
+st.sidebar.markdown("*Answer the 7 questions:*")
 
 user_inputs = {}
 
